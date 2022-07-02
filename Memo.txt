@@ -1,0 +1,48 @@
+Название марок:
+1. Acura
+2. Audi
+3. BMW
+4. Chevrolet
+5. Chrysler
+6. Citroen
+7. Daewoo
+8. Fiat
+9. Ford
+10. GAZ
+11. Honda
+12. Hyundai
+13. Infiniti
+14. Jaguar
+15. Jeep
+16. Kadillak
+17. KIA
+18. Lada
+19. Land-Rover
+20. Lexus
+21. Mazda
+22. Mercedes
+23. Mini
+24. Mitsubishi
+25. Nissan
+26. Opel
+27. Peugeot
+28. Pontiac
+29. Renault
+30. Skoda
+31. Subaru
+32. Suzuki
+33. Toyota
+34. Volkswagen
+35. Volvo
+
+*Категория - 
+Подразделяется на: 
+Двигатель, 
+Подвеска, 
+Тормоза, 
+Выхлоп, 
+Коробка передач, 
+Жидкости, 
+Электрооборудование, 
+Экстерьер.
+

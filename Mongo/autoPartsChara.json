@@ -1,0 +1,365 @@
+[{
+  "_id": {
+    "$oid": "6256edc94a3eee08996019cb"
+  },
+  "nameTitle": "Свеча зажигания SILKR8A-S NGK",
+  "type": "Свеча зажигания",
+  "Article": "12290RWCA01",
+  "image": "../Diplom/public/img/details/AQADBLgxGyflsEp9.jpg",
+  "markAuto": "Acura",
+  "modelAuto": "RDX",
+  "price": 3400.5,
+  "description": "Свеча зажигания SILKR8A-S NGK",
+  "category": "Электрооборудование",
+  "manufacturer": "Япония"
+},{
+  "_id": {
+    "$oid": "6256f4c04a3eee08996019cc"
+  },
+  "nameTitle": "Фильтр воздушный",
+  "type": "Воздушный фильтр",
+  "Article": "17220R8AA01",
+  "image": "../Diplom/public/img/details/AQADCbgxGyflsEp9.jpg",
+  "markAuto": "Acura",
+  "modelAuto": "RDX",
+  "price": 2595,
+  "description": "Фильтр воздушный",
+  "category": "Двигатель",
+  "manufacturer": "Китай"
+},{
+  "_id": {
+    "$oid": "6256f7bd4a3eee08996019cd"
+  },
+  "nameTitle": "Фильтр топливный",
+  "type": "Фильтр топливный",
+  "Article": "17048T0A000",
+  "image": "../Diplom/public/img/details/AQADErgxGyflsEp9.jpg",
+  "markAuto": "Acura",
+  "modelAuto": "RDX",
+  "price": 13660,
+  "description": "Фильтр топливный",
+  "category": "Двигатель",
+  "manufacturer": "Япония"
+},{
+  "_id": {
+    "$oid": "6256fa7f4a3eee08996019ce"
+  },
+  "nameTitle": "Уплотнитель лобового стекла",
+  "type": "Уплотнитель",
+  "Article": "73126SYY000",
+  "image": "../Diplom/public/img/details/AQADFrgxGyflsEp9.jpg",
+  "markAuto": "Acura",
+  "modelAuto": "RDX",
+  "price": 320,
+  "description": "Уплотнитель лобового стекла 73126SYY000",
+  "category": "Экстерьер",
+  "manufacturer": "Япония"
+},{
+  "_id": {
+    "$oid": "6256fc064a3eee08996019cf"
+  },
+  "nameTitle": "Подшипник ступицы задний",
+  "type": "Подшипник",
+  "Article": "42200T0A951",
+  "image": "../Diplom/public/img/details/AQADGrgxGyflsEp9.jpg",
+  "markAuto": "Acura",
+  "modelAuto": "RDX",
+  "price": 20410,
+  "description": "Подшипник ступицы задний NTN 42200T0A951",
+  "category": "Подвеска",
+  "manufacturer": "Япония"
+},{
+  "_id": {
+    "$oid": "6263ef6361dc7a0c76f70d64"
+  },
+  "nameTitle": "Диск тормозной задний AUDI A4/A5/Q5",
+  "type": "тормозной диск",
+  "Article": "410207",
+  "image": "../Diplom/public/img/details/AQADAbkxG9t0IUt9.jpg",
+  "markAuto": "Audi",
+  "modelAuto": "A4",
+  "price": 3015,
+  "description": "Диск тормозной задний AUDI A4/A5/Q5 07-> /D=300mm ASP 410207",
+  "category": "Тормоза",
+  "manufacturer": "Германия"
+},{
+  "_id": {
+    "$oid": "6263f5a061dc7a0c76f70d65"
+  },
+  "nameTitle": "Фильтр воздушный AUDI A4 B8 2007-2015 VAG",
+  "type": "воздушный фильтр",
+  "Article": "8R0133843K",
+  "image": "../Diplom/public/img/details/AQADKrkxG9t0IUt9.jpg",
+  "markAuto": "Audi",
+  "modelAuto": "A4",
+  "price": 1050,
+  "description": "Фильтр воздушный AUDI A4 B8 2007-2015 A5 8T 2007-2016 Q5 8R 2008-2017 VAG",
+  "category": "Двигатель",
+  "manufacturer": "Германия"
+},{
+  "_id": {
+    "$oid": "6263fa8c61dc7a0c76f70d66"
+  },
+  "nameTitle": "Ремень поликлиновой Audi A6",
+  "type": "Ремень",
+  "Article": "06E903137J",
+  "image": "../Diplom/public/img/details/AQADMbkxG9t0IUt9.jpg",
+  "markAuto": "Audi",
+  "modelAuto": "A6",
+  "price": 5850,
+  "description": "Ремень поликлиновой Audi A6 08- (06E903137J) 6PK2415",
+  "category": "Двигатель",
+  "manufacturer": "Германия"
+},{
+  "_id": {
+    "$oid": "6263ffba61dc7a0c76f70d67"
+  },
+  "nameTitle": "Рычаг передней подвески правый верхний",
+  "type": "Рычаг передней",
+  "Article": "31126769717",
+  "image": "../Diplom/public/img/details/AQADO7kxG9t0IUt9.jpg",
+  "markAuto": "BMW",
+  "modelAuto": "E53 X5",
+  "price": 1910,
+  "description": "Рычаг передней подвески правый верхний 31126769717",
+  "category": "Подвеска",
+  "manufacturer": "Германия"
+},{
+  "_id": {
+    "$oid": "6264068861dc7a0c76f70d68"
+  },
+  "nameTitle": "Бампер передний",
+  "type": "Бампер",
+  "Article": "51118402303",
+  "image": "../Diplom/public/img/details/AQADUrkxG9t0IUt9.jpg",
+  "markAuto": "BMW",
+  "modelAuto": "E53 X5",
+  "price": 6730,
+  "description": "Бампер передний без отверстий под омыватель и парктроник",
+  "category": "Экстерьер",
+  "manufacturer": "Германия"
+},{
+  "_id": {
+    "$oid": "62640c9861dc7a0c76f70d69"
+  },
+  "nameTitle": "Защита двигателя",
+  "type": "защита",
+  "Article": "51717012723",
+  "image": "../Diplom/public/img/details/AQADY7kxG9t0IUt9.jpg",
+  "markAuto": "BMW",
+  "modelAuto": "E85",
+  "price": 5299,
+  "description": "Защиты двигателя",
+  "category": "Экстерьер",
+  "manufacturer": "Польша"
+},{
+  "_id": {
+    "$oid": "6264119661dc7a0c76f70d6a"
+  },
+  "nameTitle": "Радиатор охлаждения",
+  "type": "Радиатор",
+  "Article": "16115659071518",
+  "image": "../Diplom/public/img/details/AQADcbkxG9t0IUt9.jpg",
+  "markAuto": "BMW",
+  "modelAuto": "E85",
+  "price": 8510,
+  "description": "Радиатор охлаждения POLCAR BMW E85",
+  "category": "Двигатель",
+  "manufacturer": "Польша"
+},{
+  "_id": {
+    "$oid": "626413e761dc7a0c76f70d6b"
+  },
+  "nameTitle": "Компрессор кондиционера",
+  "type": "Компрессор",
+  "Article": "96539388",
+  "image": "../Diplom/public/img/details/AQADdLkxG9t0IUt9.jpg",
+  "markAuto": "Chevrolet",
+  "modelAuto": "Aveo T200",
+  "price": 11950,
+  "description": "Компрессор кондиционера Aveo T200 AVA",
+  "category": "Электрооборудование",
+  "manufacturer": "Германия"
+},{
+  "_id": {
+    "$oid": "626417b461dc7a0c76f70d6c"
+  },
+  "nameTitle": "Рулевая тяга левая=правая",
+  "type": "Рулевая тяга",
+  "Article": "95952929",
+  "image": "../Diplom/public/img/details/AQADibkxG9t0IUt9.jpg",
+  "markAuto": "Chevrolet",
+  "modelAuto": "Aveo T300",
+  "price": 1330,
+  "description": "Рулевая тяга левая=правая SRL 95952929",
+  "category": "Подвеска",
+  "manufacturer": "Польша"
+},{
+  "_id": {
+    "$oid": "626427ad61dc7a0c76f70d6d"
+  },
+  "nameTitle": "Корпус воздушного фильтра",
+  "type": "Корпус",
+  "Article": "13324645",
+  "image": "../Diplom/public/img/details/AQADuLkxG9t0IUty.jpg",
+  "markAuto": "Chevrolet",
+  "modelAuto": "Cruze",
+  "price": 850,
+  "description": "Корпус воздушного фильтра 13324645",
+  "category": "Двигатель",
+  "manufacturer": "США"
+},{
+  "_id": {
+    "$oid": "62642b6761dc7a0c76f70d6e"
+  },
+  "nameTitle": "Прокладка трубы глушителя victor reinz",
+  "type": "Прокладка",
+  "Article": "702586610",
+  "image": "../Diplom/public/img/details/AQADw7kxG9t0IUt9.jpg",
+  "markAuto": "Chrysler",
+  "modelAuto": "300C",
+  "price": 310,
+  "description": "Прокладка трубы глушителя victor reinz 100594 712586500 4026634378250 fl egx",
+  "category": "Выхлоп",
+  "manufacturer": "Германия"
+},{
+  "_id": {
+    "$oid": "62642db161dc7a0c76f70d6f"
+  },
+  "nameTitle": "Корзина сцепления SACHS 5",
+  "type": "сцепление",
+  "Article": "3482000484",
+  "image": "../Diplom/public/img/details/AQADyrkxG9t0IUt9.jpg",
+  "markAuto": "Chrysler",
+  "modelAuto": "300C",
+  "price": 57350,
+  "description": "Корзина сцепления sachs 5 ttya8 394172 3482000484 4013872560752",
+  "category": "Коробка передач",
+  "manufacturer": "Германия"
+},{
+  "_id": {
+    "$oid": "626463ba61dc7a0c76f70d70"
+  },
+  "nameTitle": "EXIDE EK508 AGM_аккумуляторная батарея",
+  "type": "аккумулятор",
+  "Article": "EK508",
+  "image": "../Diplom/public/img/details/AQADt7oxG9t0IUt9.jpg",
+  "markAuto": "Chrysler",
+  "modelAuto": "PACIFICA",
+  "price": 16179,
+  "description": "EXIDE EK508 AGM_аккумуляторная батарея! ETN 9 19.5/17.9 50Ah 800A 260/173/206 AGM",
+  "category": "Электрооборудование",
+  "manufacturer": "США"
+},{
+  "_id": {
+    "$oid": "6265135b51c4fe992079d365"
+  },
+  "nameTitle": "Выхлопная труба глушителя polmo",
+  "type": "глушитель",
+  "Article": "4307426",
+  "image": "../Diplom/public/img/details/AQADQroxG9t0KUty.jpg",
+  "markAuto": "Citroen",
+  "modelAuto": "Berlingo",
+  "price": 12100,
+  "description": "Выхлопная труба глушителя polmo 6804 jini t 4307426",
+  "category": "Выхлоп",
+  "manufacturer": "Польша"
+},{
+  "_id": {
+    "$oid": "6265157751c4fe992079d366"
+  },
+  "nameTitle": "Бампер задний phira",
+  "type": "Бампер",
+  "Article": "BR96301",
+  "image": "../Diplom/public/img/details/AQADVboxG9t0KUt9.jpg",
+  "markAuto": "Citroen",
+  "modelAuto": "Berlingo",
+  "price": 5030,
+  "description": "Бампер задний phira br-96301 br-96301 br-0 3 1194468156",
+  "category": "Экстерьер",
+  "manufacturer": "Испания"
+},{
+  "_id": {
+    "$oid": "626518a151c4fe992079d367"
+  },
+  "nameTitle": "Свеча зажигания double copper rec9ycl",
+  "type": "Свеча зажигания",
+  "Article": "OE035T10",
+  "image": "../Diplom/public/img/details/AQADa7oxG9t0KUt9.jpg",
+  "markAuto": "Citroen",
+  "modelAuto": "С1",
+  "price": 300,
+  "description": "Свеча зажигания champion oe03 5 557923 oe035t10 rec9ycl",
+  "category": "Электрооборудование",
+  "manufacturer": "США"
+},{
+  "_id": {
+    "$oid": "62651be851c4fe992079d368"
+  },
+  "nameTitle": "Лампа фары philips 834738 12342VPS2",
+  "type": "Автолампа",
+  "Article": "12342VPS2",
+  "image": "../Diplom/public/img/details/AQADdboxG9t0KUty.jpg",
+  "markAuto": "Citroen",
+  "modelAuto": "C1",
+  "price": 2700,
+  "description": "Автолампа H4 (60/55) P43t-38+60% VISION PLUS (2шт) 12V PHILIPS /1/5 HIT",
+  "category": "Электрооборудование",
+  "manufacturer": "Нидерланды"
+},{
+  "_id": {
+    "$oid": "6265203e51c4fe992079d369"
+  },
+  "nameTitle": "Глушитель задний CITROEN C1 05",
+  "type": "Глушитель",
+  "Article": "135721",
+  "image": "../Diplom/public/img/details/AQADl7oxG9t0KUt9.jpg",
+  "markAuto": "Citroen",
+  "modelAuto": "C1",
+  "price": 6090,
+  "description": "Задний глушитель bosal 135721 ewl8q a2 528824 3351641357211",
+  "category": "Выхлоп",
+  "manufacturer": "Бельгия"
+},{
+  "_id": {
+    "$oid": "6266721472af85bb885d5243"
+  },
+  "nameTitle": "Антифриз SINTEC LUX G12 -40 5 кг",
+  "type": "Антифриз",
+  "Article": "614500",
+  "image": "../Diplom/public/img/details/AQADo7oxG3c7MEt9.jpg",
+  "markAuto": "Lada",
+  "modelAuto": "Все",
+  "price": 990,
+  "description": "Карбоксилатный антифриз изготовлен по новейшей технологии органических добавок",
+  "category": "Жидкости",
+  "manufacturer": "Россия"
+},{
+  "_id": {
+    "$oid": "6266738172af85bb885d5244"
+  },
+  "nameTitle": "Амортизатор подвески передний",
+  "type": "Амортизатор",
+  "Article": "9516306741",
+  "image": "../Diplom/public/img/details/AQADq7oxG3c7MEt9.jpg",
+  "markAuto": "Daewoo",
+  "modelAuto": "Nexia",
+  "price": 3420,
+  "description": "Амортизатор подвески передний 1 поколение (1995-)",
+  "category": "Подвеска",
+  "manufacturer": "Польша"
+},{
+  "_id": {
+    "$oid": "6266751472af85bb885d5245"
+  },
+  "nameTitle": "Синтетическое моторное масло Castrol Magnatec 5W-40 А3/В4 DUALOCK 4 л",
+  "type": "Масло",
+  "Article": "156E9E",
+  "image": "../Diplom/public/img/details/AQADsLoxG3c7MEt9.jpg",
+  "markAuto": "BMW",
+  "modelAuto": "Все",
+  "price": 4080,
+  "description": "Всесезонное полностью синтетическое моторное масло Castrol Magnatec \n5W-40 A3/B4 подходит для применения в бензиновых и дизельных двигателях",
+  "category": "Жидкости",
+  "manufacturer": "Великобритания"
+}]
